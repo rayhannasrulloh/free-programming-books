@@ -167,7 +167,7 @@
 
 ### Pascal
 
-* [Tutorial Belajar Bahasa Pemrograman Python Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-pascal-bagi-pemula/) - Duniailkom
+* [Tutorial Belajar Bahasa Pemrograman Pascal Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-pascal-bagi-pemula/) - Duniailkom
 
 
 ### Pemrograman Fungsional
@@ -179,6 +179,7 @@
 
 * [Pemrograman Kompetitif Dasar](https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
 * [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF)
+* [Basic Competitive Programming (UTC)](https://www.youtube.com/playlist?list=PLEzQxRybuzFKTbz3nvp9y5IHIPfxYD9Of) - Untitled Training Camp (YouTube)
 
 
 ### PHP
